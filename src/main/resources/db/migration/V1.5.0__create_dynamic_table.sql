@@ -1,0 +1,1 @@
+CREATE TABLE ${mytable.name} (id INT NOT NULL, CONSTRAINT PK_${mytable.name}  PRIMARY KEY (id));
